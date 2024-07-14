@@ -62,3 +62,21 @@ border-radius: 4px;
     
 }
 
+#newsLetter .box {
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+input, button {
+    width: 100%;
+    border: 1px solid rgb(0, 0, 0, 0.1);
+    padding: 15px;
+    outline: none;
+    font-size: 1rem;
+    font-family: serif;
+}
