@@ -80,3 +80,20 @@ input, button {
     font-size: 1rem;
     font-family: serif;
 }
+
+button{
+    border: none;
+    width: 150px;
+    letter-spacing: 0.1rem;
+    background-color: #7c3af8;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.close{
+    position: absolute;
+    cursor: pointer;
+    top: 15px;
+    right: 20px;
+}
